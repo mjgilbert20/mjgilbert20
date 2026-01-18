@@ -11,7 +11,7 @@ I'm a software engineer specializing in full-stack development and AI-powered ap
 ### Core Competencies
 
 **Backend Development**
-- Java, Python
+- C++, Java, Python
 - RESTful API design and implementation
 - AI/ML integration and agent architectures
 
